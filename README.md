@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @aaryant22
-- 👀 I’m a sophomore at COEP Technological University
-- 😁 I know Python, Java, SQL, HTML/CSS and a little bit of C
-- ⚡ I'm interested in working on NLP or ML projects
-- 📫 How to reach me : github@aaryant22 ; gmail:aaryant2026@gmail.com
+# Hi, I'm Aaryan! 👋
+## 🚀 About Me
+
+I'm an undergrad at COEP Technological University
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryant22&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="aaryant22 stats card" /></p>
 
 
 <!---
