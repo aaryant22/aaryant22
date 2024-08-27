@@ -1,5 +1,5 @@
 # Hi, I'm Aaryan! 👋
-## 🚀 About Me
+## About Me
 
 I'm an undergrad at COEP Technological University
 <p>&nbsp;
